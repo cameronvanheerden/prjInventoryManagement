@@ -8,6 +8,5 @@ namespace prjInventoryManagement
 {
     public class Product
     {
-
     }
 }
