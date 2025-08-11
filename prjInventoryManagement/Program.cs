@@ -83,8 +83,6 @@ Wagner, B. & Kotas, J., 2025. Unsafe code, pointer types, and function pointers.
 Available at: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/unsafe-code#pointer-types
 [Accessed 11 August 2025].
 
-
-
 */
 
 
