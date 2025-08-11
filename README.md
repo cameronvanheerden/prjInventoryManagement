@@ -44,10 +44,13 @@ int* ptr = &qty;
 Console.WriteLine($"Address: {(ulong)ptr:X} | Value: {*ptr}");
 
 ### Screenshot of Output 
+
 ![Screenshot of Output](https://github.com/user-attachments/assets/57713de3-3d5e-426d-8ba2-47f47e06d3de)
 
+
 ### Video of Code 
-Video includes All my Methods and My Reference List 
+Video includes All my Methods and My Reference List:
+
 https://youtu.be/4L4neZHwRLk
 
 ### About Pointer Types in C#
