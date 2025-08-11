@@ -4,6 +4,7 @@ using System.Linq;
 
 namespace prjInventoryManagement
 {
+    //Pointer Unsafe Type
     unsafe class Program// (Wagner & Kotas, 2025) 
     {
         static void Main(string[] args)
